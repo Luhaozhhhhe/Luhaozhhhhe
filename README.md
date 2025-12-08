@@ -42,13 +42,13 @@ I am currently an undergraduate student in the College of Cryptology and Cyber S
 
 ## 📖 Educations
 
-<img align="right" width="75" src="https://github.com/Luhaozhhhe/Luhaozhhhhe/blob/main/PKU.png" />
+<img align="right" width="75" src="https://github.com/Luhaozhhhhe/Luhaozhhhhe/blob/main/PKU.png" />
 
 - **Major in Network and Information Security** &emsp; 📌 2026.09 — 2029.06
   - School of Software and Microelectronics, Peking University, Beijing, China
 <br>
 
-<img align="right" width="75" src="https://github.com/Luhaozhhhe/Luhaozhhhhe/blob/main/NKU.png" />
+<img align="right" width="75" src="https://github.com/Luhaozhhhhe/Luhaozhhhhe/blob/main/NKU.png" />
 
 - **Major in Cyber Security & Minor in Finance** &emsp; 📌 2022.09 — 2026.06
   - College of Cryptology and Cyber Science, Nankai University, Tianjin, China
