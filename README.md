@@ -3,6 +3,9 @@ I am currently an undergraduate student in the College of Cryptology and Cyber S
 
 **Welcome to visit my personal blog: https://luhaozhhhhe.github.io/**
 
+[![Page Views](https://komarev.com/ghpvc/?username=Luhaozhhhhe&label=Page%20Views&color=ad2352)](https://github.com/Luhaozhhhhe)
+
+
 ## 📖 Educations
 
 <img align="right" width="75" src="https://github.com/Luhaozhhhhe/Luhaozhhhhe/blob/main/PKU.png" />
